@@ -285,8 +285,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kuaishou.test.CameraSupportPreset;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "a7eb836d-6a2a-426e-8816-45419976187d";
-				PROVISIONING_PROFILE_SPECIFIER = com.kuaishou.test;
+				PROVISIONING_PROFILE = "4f4214af-b756-4f2e-969c-7a8374c23cf8";
+				PROVISIONING_PROFILE_SPECIFIER = com.ks.common;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -296,13 +296,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = Y5963EFXW8;
 				INFOPLIST_FILE = CameraSupportPreset/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kuaishou.test.CameraSupportPreset;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE = "4f4214af-b756-4f2e-969c-7a8374c23cf8";
+				PROVISIONING_PROFILE_SPECIFIER = com.ks.common;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
