@@ -283,10 +283,10 @@
 				INFOPLIST_FILE = CameraSupportPreset/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.kuaishou.test.CameraSupportPreset;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kwai.joyo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "4f4214af-b756-4f2e-969c-7a8374c23cf8";
-				PROVISIONING_PROFILE_SPECIFIER = com.ks.common;
+				PROVISIONING_PROFILE = "9dc7e714-34df-47aa-aff8-47a3c439521e";
+				PROVISIONING_PROFILE_SPECIFIER = JoYo_Development;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -300,10 +300,10 @@
 				INFOPLIST_FILE = CameraSupportPreset/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.kuaishou.test.CameraSupportPreset;
+				PRODUCT_BUNDLE_IDENTIFIER = com.kwai.joyo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "4f4214af-b756-4f2e-969c-7a8374c23cf8";
-				PROVISIONING_PROFILE_SPECIFIER = com.ks.common;
+				PROVISIONING_PROFILE = "9dc7e714-34df-47aa-aff8-47a3c439521e";
+				PROVISIONING_PROFILE_SPECIFIER = JoYo_Development;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
